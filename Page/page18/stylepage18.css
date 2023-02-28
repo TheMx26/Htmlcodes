@@ -1,0 +1,187 @@
+html, body {
+  height: 850px;
+  width: 624.34px;
+}
+
+@font-face {
+  font-family:"alsscrp";
+  src: url("assets/fonts/alsscrp.ttf");
+}
+@font-face {
+  font-family:"Besley-Bold";
+  src: url("assets/fonts/Besley-Bold.ttf");
+}
+@font-face {
+  font-family:"Besley-BoldItalic";
+  src: url("assets/fonts/Besley-BoldItalic.ttf");
+}
+@font-face {
+  font-family:"Besley-Italic";
+  src: url("assets/fonts/Besley-Italic.ttf");
+}
+@font-face {
+  font-family:"Besley";
+  src: url("assets/fonts/Besley.ttf");
+}
+@font-face {
+  font-family:"GillSans-Bold";
+  src: url("assets/fonts/GillSans-Bold.ttf");
+}
+@font-face {
+  font-family:"GillSans-BoldItalic";
+  src: url("assets/fonts/GillSans-BoldItalic.ttf");
+}
+@font-face {
+  font-family:"GillSans-Italic";
+  src: url("assets/fonts/GillSans-Italic.ttf");
+}
+@font-face {
+  font-family:"GillSans-Light";
+  src: url("assets/fonts/GillSans-Light.ttf");
+}
+@font-face {
+  font-family:"GillSans-Semibold";
+  src: url("assets/fonts/GillSans-SemiBold.ttf");
+}
+@font-face {
+  font-family:"GillSans-SemiBoldItalic";
+  src: url("assets/fonts/GillSans-SemiBoldItalic.ttf");
+}
+
+@font-face {
+  font-family:"GillSans";
+  src: url("assets/fonts/GillSans.ttf");
+}
+
+@font-face {
+  font-family:"MinionPro-Bold";
+  src: url("assets/fonts/MinionPro-Bold.ttf");
+}
+@font-face {
+  font-family:"MinionPro-BoldIt";
+  src: url("assets/fonts/MinionPro-BoldIt.ttf");
+}
+@font-face {
+  font-family:"MinionPro-It";
+  src: url("assets/fonts/MinionPro-It.ttf");
+}
+@font-face {
+  font-family:"MinionPro-Semibold";
+  src: url("assets/fonts/MinionPro-Semibold.ttf");
+}
+
+@font-face {
+  font-family:"MinionPro-SemiboldIt";
+  src: url("assets/fonts/MinionPro-SemiboldIt.ttf");
+}
+@font-face {
+  font-family:"MinionPro";
+  src: url("assets/fonts/MinionPro.ttf");
+}
+
+
+.font1{
+    font-size:24pt;
+    font-family: "GillSans-Light";
+    color:#4D4D4F;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 85px;
+}
+
+.text-sunday{
+  position:absolute;
+  top:186.24px;
+  left:214.08px;
+  width:71.04px;
+  line-height:23.04px;
+  font-size:12pt;
+  font-family:Roboto-Regular;
+  color:#000000;
+}
+
+.day28{
+  position:absolute;
+  top:227.52px;
+  left:237.12px;
+  width:24px;
+  line-height:23.04px;
+}
+
+.text-monday{
+  position:absolute;
+  top:186.24px;
+  left:587.52px;
+  width:76.8px;
+  line-height:23.04px;
+  
+}
+
+.day29{
+  position:absolute;
+  top:2.37in;
+  left:6.40in;
+  width:0.25in;
+  line-height:23.04px;
+}
+
+.text-tuesday{
+  position:absolute;
+  top:7.79in;
+  left:2.19in;
+  width:0.82in;
+  line-height:23.04px;
+}
+.day2{
+  position:absolute;
+  top:8.22in;
+  left:2.52in;
+  width:0.15in;
+  line-height:23.04px;
+}
+.text-wednesday{
+  position:absolute;
+  top:7.79in;
+  left:5.97in;
+  width:1.11in;
+  line-height:23.04px;
+}
+.day29-2{
+  position:absolute;
+  top:8.22in;
+  left:6.40in;
+  width:0.25in;
+  line-height:23.04px;
+}
+
+.img1{
+  position:absolute;
+  top:170px;
+  left:480px;
+  width:2px;
+  height:519.36px;
+}
+
+.img2{
+  position:absolute;
+  top:683.52px;
+  left:59px;
+  width:420px;
+  height:1.92px;
+}
+
+.img3{
+  position:absolute;
+  top:683.52px;
+  left:480px;
+  width:378px;
+  height:1.92px;
+}
+
+.img4{
+  position:absolute;
+  top:684.48px;
+  left:480px;
+  width:1.92px;
+  height: 519.36px;
+}

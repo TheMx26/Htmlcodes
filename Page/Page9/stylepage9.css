@@ -1,0 +1,128 @@
+html, body {
+  height: 850px;
+  width: 624.34px;
+}
+
+@font-face {
+  font-family:"alsscrp";
+  src: url("assets/fonts/alsscrp.ttf");
+}
+@font-face {
+  font-family:"Besley-Bold";
+  src: url("assets/fonts/Besley-Bold.ttf");
+}
+@font-face {
+  font-family:"Besley-BoldItalic";
+  src: url("assets/fonts/Besley-BoldItalic.ttf");
+}
+@font-face {
+  font-family:"Besley-Italic";
+  src: url("assets/fonts/Besley-Italic.ttf");
+}
+@font-face {
+  font-family:"Besley";
+  src: url("assets/fonts/Besley.ttf");
+}
+@font-face {
+  font-family:"GillSans-Bold";
+  src: url("assets/fonts/GillSans-Bold.ttf");
+}
+@font-face {
+  font-family:"GillSans-BoldItalic";
+  src: url("assets/fonts/GillSans-BoldItalic.ttf");
+}
+@font-face {
+  font-family:"GillSans-Italic";
+  src: url("assets/fonts/GillSans-Italic.ttf");
+}
+@font-face {
+  font-family:"GillSans-Light";
+  src: url("assets/fonts/GillSans-Light.ttf");
+}
+@font-face {
+  font-family:"GillSans-Semibold";
+  src: url("assets/fonts/GillSans-SemiBold.ttf");
+}
+@font-face {
+  font-family:"GillSans-SemiBoldItalic";
+  src: url("assets/fonts/GillSans-SemiBoldItalic.ttf");
+}
+
+@font-face {
+  font-family:"GillSans";
+  src: url("assets/fonts/GillSans.ttf");
+}
+
+@font-face {
+  font-family:"MinionPro-Bold";
+  src: url("assets/fonts/MinionPro-Bold.ttf");
+}
+@font-face {
+  font-family:"MinionPro-BoldIt";
+  src: url("assets/fonts/MinionPro-BoldIt.ttf");
+}
+@font-face {
+  font-family:"MinionPro-It";
+  src: url("assets/fonts/MinionPro-It.ttf");
+}
+@font-face {
+  font-family:"MinionPro-Semibold";
+  src: url("assets/fonts/MinionPro-Semibold.ttf");
+}
+
+@font-face {
+  font-family:"MinionPro-SemiboldIt";
+  src: url("assets/fonts/MinionPro-SemiboldIt.ttf");
+}
+@font-face {
+  font-family:"MinionPro";
+  src: url("assets/fonts/MinionPro.ttf");
+}
+.img1{
+  position: absolute;
+  width: 80%;
+  height: 42%;
+  top: 2.5%;
+  left:10%
+}
+
+.img2{
+  position: absolute;
+  width: 80%;
+  height: 42%;
+  top: 46%;
+  left:10%
+}
+
+.t1{
+    font-size:12pt;
+    font-family:'GillSans-Italic"';
+    color:#4D4D4F;
+    text-align: center;
+    position: absolute;
+    width: auto;
+    top: 800pt;
+    left: 200pt;
+}
+
+.t2{
+    font-size:12pt;
+    font-family:'RGillSans-Semibold';
+    color:#4D4D4F;
+    text-align: center;
+    position: absolute;
+    width: auto;
+    top: 820pt;
+    left: 230pt;
+}
+
+.t3{
+    font-size:12pt;
+    font-family:'RGillSans-Semibold';
+    color:#4D4D4F;
+    text-align: center;
+    position: absolute;
+    width: auto;
+    top: 840pt;
+    left: 350pt;
+}

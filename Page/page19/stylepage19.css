@@ -1,0 +1,129 @@
+html, body {
+  height: 850px;
+  width: 624.34px;
+}
+
+@font-face {
+    font-family:"alsscrp";
+    src: url("assets/fonts/alsscrp.ttf");
+  }
+  @font-face {
+    font-family:"Besley-Bold";
+    src: url("assets/fonts/Besley-Bold.ttf");
+  }
+  @font-face {
+    font-family:"Besley-BoldItalic";
+    src: url("assets/fonts/Besley-BoldItalic.ttf");
+  }
+  @font-face {
+    font-family:"Besley-Italic";
+    src: url("assets/fonts/Besley-Italic.ttf");
+  }
+  @font-face {
+    font-family:"Besley";
+    src: url("assets/fonts/Besley.ttf");
+  }
+  @font-face {
+    font-family:"GillSans-Bold";
+    src: url("assets/fonts/GillSans-Bold.ttf");
+  }
+  @font-face {
+    font-family:"GillSans-BoldItalic";
+    src: url("assets/fonts/GillSans-BoldItalic.ttf");
+  }
+  @font-face {
+    font-family:"GillSans-Italic";
+    src: url("assets/fonts/GillSans-Italic.ttf");
+  }
+  @font-face {
+    font-family:"GillSans-Light";
+    src: url("assets/fonts/GillSans-Light.ttf");
+  }
+  @font-face {
+    font-family:"GillSans-Semibold";
+    src: url("assets/fonts/GillSans-SemiBold.ttf");
+  }
+  @font-face {
+    font-family:"GillSans-SemiBoldItalic";
+    src: url("assets/fonts/GillSans-SemiBoldItalic.ttf");
+  }
+  
+  @font-face {
+    font-family:"GillSans";
+    src: url("assets/fonts/GillSans.ttf");
+  }
+  
+  @font-face {
+    font-family:"MinionPro-Bold";
+    src: url("assets/fonts/MinionPro-Bold.ttf");
+  }
+  @font-face {
+    font-family:"MinionPro-BoldIt";
+    src: url("assets/fonts/MinionPro-BoldIt.ttf");
+  }
+  @font-face {
+    font-family:"MinionPro-It";
+    src: url("assets/fonts/MinionPro-It.ttf");
+  }
+  @font-face {
+    font-family:"MinionPro-Semibold";
+    src: url("assets/fonts/MinionPro-Semibold.ttf");
+  }
+  
+  @font-face {
+    font-family:"MinionPro-SemiboldIt";
+    src: url("assets/fonts/MinionPro-SemiboldIt.ttf");
+  }
+  @font-face {
+    font-family:"MinionPro";
+    src: url("assets/fonts/MinionPro.ttf");
+  }
+  
+  .img1{
+    position:absolute;top:9.97in;left:2.57in;width:6.11in;height:2.87in;
+  }
+
+  .img2{
+    position:absolute;top:1.74in;left:4.53in;width:0.02in;height:5.41in;
+  }
+
+  .img3{
+    position:absolute;top:7.12in;left:0.60in;width:3.94in;height:0.02in;
+  }
+
+  .img4{
+    position:absolute;top:7.12in;left:4.52in;width:3.94in;height:0.02in;
+  }
+
+  .img5{
+    position:absolute;top:7.13in;left:4.53in;width:0.02in;height:5.41in;
+  }
+
+  .thursday{
+    position:absolute;top:1.94in;left:2.12in;width:0.96in;line-height:0.24in;
+  }
+
+  .t-30{
+    position:absolute;top:2.37in;left:2.47in;width:0.25in;line-height:0.24in;
+  }
+
+  .friday{
+    position:absolute;top:1.94in;left:6.20in;width:0.64in;line-height:0.24in;
+  }
+
+  .t-1{
+    position:absolute;top:2.37in;left:6.45in;width:0.15in;line-height:0.24in;
+  }
+
+  .saturday{
+    position:absolute;top:7.79in;left:2.13in;width:0.94in;line-height:0.24in;
+  }
+
+  .t-4{
+    position:absolute;top:8.22in;left:2.52in;width:0.15in;line-height:0.24in;
+  }
+
+  .notes{
+    position:absolute;top:7.79in;left:6.26in;width:0.53in;line-height:0.24in;
+  }
+
